@@ -1,0 +1,10 @@
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Volumes/Ironman/WT/Class/Spring 2018/Code/3312/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
